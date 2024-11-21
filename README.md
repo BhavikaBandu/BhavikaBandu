@@ -2,7 +2,7 @@
 
 _"Transforming imagination into reality through the art of coding."_  
 
-<br><br>
+<br>
 
 ### 👋 **Hello, and welcome to my GitHub profile!**  
 
