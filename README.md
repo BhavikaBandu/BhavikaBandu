@@ -13,7 +13,7 @@ Continuously enhancing my skills in **deep learning**, **data structures**, and 
 <br>
 
 ## 🛠️ My Tech Arsenal  
-- **Programming Languages:** Python, C/C++, Java  
+- **Programming Languages:** Python, C, Java  
 - **ML/AI:** Classification, Neural Networks, Deep Learning, Computer Vision  
 - **Libraries & Tools:** OpenCV, Matplotlib, NumPy, Tkinter, Scikit-learn, TensorFlow  
 - **Web Development:** HTML   
